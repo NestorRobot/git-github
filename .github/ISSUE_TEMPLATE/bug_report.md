@@ -46,5 +46,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 
 Cualquier otra información relevante.
 
-
 escriban algi mkis
